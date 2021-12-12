@@ -1,0 +1,6 @@
+POST http://localhost:8085/msg HTTP/1.1 
+Content-Type: application/json
+
+{
+    "message": "cost"
+}
